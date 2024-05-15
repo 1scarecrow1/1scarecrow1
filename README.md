@@ -1,4 +1,4 @@
- Hi, I’m Monica Panigrahy, a graduate student in Financial Mathematics at The University of Chicago.
+ Hi, I’m Monica.
 My main interests are Mathematical Statistics, Financial Econometrics and Time Series Econometrics. 
 
 <!---
